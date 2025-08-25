@@ -123,7 +123,7 @@ A comprehensive expense management application that helps you track your spendin
 <p align="center">
   <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/efirst.jpeg" width="200" alt="Home Screen">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/esecond"width="200" alt="Add Screen">
+  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/esecond.jpeg"width="200" alt="Add Screen">
 </p>
 <p align="center">
   <strong>Home Screen</strong>
@@ -135,9 +135,9 @@ A comprehensive expense management application that helps you track your spendin
 <p align="center">
   <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/ethird.jpeg" width="200" alt="Select Types">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/efourth"width="200" alt="Expense Add Screen">
+  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/efourth.jpeg"width="200" alt="Expense Add Screen">
    &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/efifth"width="200" alt="Pie Chart">
+  <img src="https://github.com/prashant000000004/ExpenseTracker/blob/21e07966c2a53df1cb1e2dc921dc6a87dd63fc54/efifth.jpeg"width="200" alt="Pie Chart">
 </p>
 <p align="center">
   <strong>Select Types</strong>
